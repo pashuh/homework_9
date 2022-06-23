@@ -1,0 +1,30 @@
+{
+  "auto": {
+    "BMW": {
+      "M3": {
+        "vin": 77888912,
+        "power": "525 hp",
+        "Rear-wheel drive": true
+      },
+      "M4": {
+        "vin": 77338912,
+        "power": "590 hp",
+        "Rear-wheel drive": true
+      },
+      "AUDI": {
+        "A4": {
+          "vin": 76912912,
+          "power": "200 hp",
+          "Rear-wheel drive": false
+        },
+        "RS6": {
+          "vin": 49128912,
+          "power": "610 hp",
+          "Rear-wheel drive": true
+        }
+      }
+    }
+  }
+}
+
+
